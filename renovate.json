@@ -1,0 +1,5 @@
+{
+  "extends": [
+    "github>adschw1/renovate-config"
+  ]
+}
