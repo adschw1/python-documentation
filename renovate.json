@@ -1,5 +1,7 @@
 {
+  "masterIssue": true,
   "extends": [
-    "config:base"
+    "config:base",
+    ":automergeMinor"
   ]
 }
