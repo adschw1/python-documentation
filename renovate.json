@@ -1,7 +1,5 @@
 {
-  "masterIssue": true,
-  "extends": [
-    "config:base",
-    ":automergeMinor"
-  ]
+	"extends": [
+		"github>adschw1/renovate-config"
+	]
 }
